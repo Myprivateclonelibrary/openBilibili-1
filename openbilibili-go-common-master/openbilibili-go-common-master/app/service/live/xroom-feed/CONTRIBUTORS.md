@@ -1,6 +1,0 @@
-# Owner
-weixuan 
-
-# Author
-
-# Reviewer

@@ -1,6 +1,0 @@
-# Owner
-jiangdongqi
-
-# Author
-
-# Reviewer

@@ -1,6 +1,0 @@
-# Owner
-liutengda
-
-# Author
-
-# Reviewer

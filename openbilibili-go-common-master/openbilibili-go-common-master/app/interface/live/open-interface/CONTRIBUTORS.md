@@ -1,6 +1,0 @@
-# Owner
-houjin
-
-# Author
-
-# Reviewer

@@ -1,6 +1,0 @@
-# Owner
-daiwei
-
-# Author
-
-# Reviewer

@@ -1,3 +1,0 @@
-# gengo
-
-## deepcopy-gen

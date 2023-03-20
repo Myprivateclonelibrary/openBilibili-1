@@ -1,6 +1,0 @@
-# Owner
-majiayi
-
-# Author
-
-# Reviewer

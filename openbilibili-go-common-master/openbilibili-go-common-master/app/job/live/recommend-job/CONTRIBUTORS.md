@@ -1,6 +1,0 @@
-# Owner
-liugang
-
-# Author
-
-# Reviewer
